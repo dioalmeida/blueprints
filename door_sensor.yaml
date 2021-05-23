@@ -1,5 +1,5 @@
 blueprint:
-  name: Notification to Close a Window 
+  name: Door Opened Notification
   description: Notification to user if someone enters a room
   domain: automation
   input: 
